@@ -59,7 +59,6 @@ const Home = () => {
 				getToDos()
 				
 			}) 
-
 			.catch(error => console.error(error));
 	}
 
